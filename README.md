@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on some web related projects involving React, Javascript, Django
 - 📫 How to reach me ... http://jashann.github.io/
+- Email ... jashangill3592@gmail.com
