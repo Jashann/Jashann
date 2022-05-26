@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jashann
-- 👀 I’m interested in Django, React, Python, Javascript
-- 🌱 I’m currently learning Node
+- 👀 I’m interested in Django, Node JS, React, Python, Javascript
 - 💞️ I’m looking to collaborate on some web related projects involving React, Javascript, Django, NodeJs
 - 📫 How to reach me ... https://jashann.ca
 - ✉ Email ... jashangill3592@gmail.com
