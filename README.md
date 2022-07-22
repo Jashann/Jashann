@@ -4,4 +4,5 @@ I have been studying web development extensively and I develop in both C# and PH
 
 I am always working on some projects to keep learning something new (so my brain does not rust 😁).
 
-I am open to new projects and the opportunities, CONTACT ME (gilljs5@myumanitoba.ca) if I am good fit for your ideas, and thank you for coming here :)
+If you have something related to my area of interest,
+Email me at: gilljs5@myumanitoba.ca  :)
