@@ -1,4 +1,4 @@
-I am Jashanjot. I am an aspiring Software Engineering, currently living in Canada. I'm doing a Bachelor of Science [Honours - Computer Science] at the University of Manitoba.
+I am an aspiring Software Engineering, currently living in Canada. I'm doing a Bachelor of Science [Honours - Computer Science] at the University of Manitoba.
 
 My primary focus and inspiration for my studies is building scalable software.
 
