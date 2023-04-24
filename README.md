@@ -8,4 +8,6 @@ I am proficient in many non-web-based languages, including Java, C, C++, and Pyt
 
 I regularly take a part in competitive programming contests to meet new like-minded people and improve my knowledge of Data Structures and Algorithms. I have created programs for data processing and visualizing data, as well as general-purpose apps.
 
-I am open to new opportunities for Summer 2023
+Contact
+Email: gilljs5@myumanitoba.ca
+Portfolio: https://jashann.ca
