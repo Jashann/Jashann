@@ -1,4 +1,4 @@
-Email: gilljs5@myumanitoba.ca
+Email: jashangill3592@gmail.com
 
 Portfolio: https://jashann.ca
 
