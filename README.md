@@ -2,4 +2,4 @@
 
 Email: jashangill3592@gmail.com
 
-Personal Web: https://jashann.ca
+LinkedIn: https://www.linkedin.com/in/jashan7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
